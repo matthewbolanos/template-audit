@@ -18,6 +18,12 @@ data = query("cats.jpg")
 ## Original Handlebars template
 
 ```handlebars
+{{img src="cats.jpg"}}
+```
+
+or...
+
+```handlebars
 {{#message role="user"}}
     {{img src="cats.jpg"}}
 {{/message}}
@@ -26,7 +32,7 @@ data = query("cats.jpg")
 ## Original f-string template
 
 ```html
-{input}
+<img src="cats.jpg" />
 ```
 
 or...
@@ -37,13 +43,6 @@ or...
 </message>
 ```
 
-## Rendered template
-
-```html
-<message role="user">
-    <img src="cats.jpg" />
-</message>
-```
 
 ## Chat completion request object
 

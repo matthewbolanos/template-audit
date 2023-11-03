@@ -105,7 +105,7 @@ or...
 }
 ```
 
-## Response from OpenAI
+## Response from gpt-4
 
 ```
 42

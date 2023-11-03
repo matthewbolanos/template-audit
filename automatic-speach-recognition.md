@@ -18,6 +18,12 @@ data = query("sample1.flac")
 ## Original Handlebars template
 
 ```handlebars
+{{audio src="sample1.flac"}}
+```
+
+or...
+
+```handlebars
 {{#message role="user"}}
     {{audio src="sample1.flac"}}
 {{/message}}
@@ -26,7 +32,9 @@ data = query("sample1.flac")
 ## Original f-string template
 
 ```html
-{input}
+<audio controls>
+    <source src="sample1.flac" type="audio/flac"/>
+</audio>
 ```
 
 or...

@@ -1,4 +1,4 @@
-# Fill mask task
+# Object detection
 
 ## Final API call
 

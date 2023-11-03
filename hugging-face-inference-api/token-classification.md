@@ -1,4 +1,4 @@
-# Fill mask task
+# Token classification
 
 ## Final API call
 

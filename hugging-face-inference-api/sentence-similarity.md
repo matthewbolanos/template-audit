@@ -1,4 +1,4 @@
-# Fill mask task
+# Sentence similarity
 
 ## Final API call
 

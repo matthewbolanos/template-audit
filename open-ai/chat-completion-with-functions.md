@@ -1,4 +1,4 @@
-# Fill mask task
+# Chat completion with functions
 
 ## Final API call
 

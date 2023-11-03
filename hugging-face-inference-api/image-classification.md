@@ -1,4 +1,4 @@
-# Fill mask task
+# Image classification
 
 ## Final API call
 

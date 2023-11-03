@@ -1,4 +1,4 @@
-# Fill mask task
+# Fill mask
 
 ## Final API call
 

@@ -1,4 +1,4 @@
-# Fill mask task
+# Zero-shot classification
 
 ## Final API call
 
